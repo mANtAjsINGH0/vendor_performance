@@ -1,0 +1,3 @@
+invoice_id,po_id,invoice_date,invoice_amount,paid_date,payment_terms
+INV-1,PO1001,2024-11-12,12000,2024-12-01,30
+INV-2,PO1002,2024-12-06,48600,2025-01-07,30

@@ -1,0 +1,4 @@
+po_id,po_date,vendor_id,department,total_amount,currency,status
+PO1001,2024-11-10,1,Ops,12000,CAD,Closed
+PO1002,2024-12-05,2,Eng,54000,USD,Closed
+PO1003,2025-01-08,1,Ops,8000,CAD,Open

@@ -1,0 +1,4 @@
+po_id,sku,description,qty_ordered,qty_received,unit_price
+PO1001,BX-01,Boxes,1000,1000,10.0
+PO1002,IC-77,Chips,200,180,270.0
+PO1003,BX-01,Boxes,800,0,10.5

@@ -1,0 +1,4 @@
+po_id,po_date,vendor_name,department,total_amount,currency,status
+PO1001,2024-11-10,Alpha Supplies,Ops,12000,CAD,Closed
+PO1002,2024-12-05,Beta Components,Eng,54000,USD,Closed
+PO1003,2025-01-08,Alpha Supplies,Ops,8000,CAD,Open
