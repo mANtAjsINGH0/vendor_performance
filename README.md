@@ -18,7 +18,7 @@ This project turns raw procurement data (vendors, purchase orders, deliveries, i
 3) **Create database & user**
    ```bash
    psql -U postgres
-   CREATE ROLE vendor_user WITH LOGIN PASSWORD 'vendor_pass';
+   CREATE ROLE vendor_user WITH LOGIN PASSWORD;
    CREATE DATABASE vendor_db OWNER vendor_user;
    \q
    ```
